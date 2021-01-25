@@ -1,8 +1,8 @@
 ### Hi I am Rachel! 我是 Rachel レイチェルです。　me llamo Rachel 👋 😊
 
 歡迎來玩我的專案
-- 👉 瑜珈測驗 🧘🏻‍♀️
-- 👉冥想 🕊 
+- 👉 [瑜珈測驗](https://butterfly-l.github.io/meditation/meditation.html) 🧘🏻‍♀️
+- 👉[冥想](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 🕊 
 
 
 <!--
