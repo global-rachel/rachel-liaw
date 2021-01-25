@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I am Rachel! 我是 Rachel レイチェルです。　me llamo Rachel 👋 😊
+
+歡迎來玩我的專案
+- 👉 瑜珈測驗 🧘🏻‍♀️
+- 👉冥想 🕊 
+
 
 <!--
 **Butterfly-L/Butterfly-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
