@@ -2,8 +2,11 @@
 💁‍♀️English 日本語 中文
 
 ⚒  HTML & CSS & Javascript 
+
 ⚙️  Bootstrap & Jquery & SCSS & Vue
+
 🎨 Photoshop & illustrator & Adobe XD
+
 💻 Project Management & Digital Marketing
 
 ---
