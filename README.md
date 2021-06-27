@@ -1,6 +1,11 @@
 ### Hi I am Rachel! レイチェルです。　我是 Rachel 👋 😊
 💁‍♀️English 日本語 中文
 
+⚒  HTML & CSS & Javascript 
+⚙️  Bootstrap & Jquery & SCSS & Vue
+🎨 Photoshop & illustrator & Adobe XD
+💻 Project Management & Digital Marketing
+
 ---
 Works 制作実績 委託製作👉
 - 🌻 [Wedding Invitation 結婚式の参加調査（Mandarin 中国語）](https://butterfly-l.github.io/wedding/wang-wang)
