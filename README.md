@@ -1,8 +1,11 @@
-### Hi I am Rachel! 我是 Rachel レイチェルです。　me llamo Rachel 👋 😊
+### Hi I am Rachel! レイチェルです。　我是 Rachel 👋 😊
 
-歡迎來玩我的專案：
-- 👉 [冥想](https://butterfly-l.github.io/meditation/meditation.html) 🕊 
-- 👉[瑜珈測驗](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 🧘🏻‍♀️
+Works 制作実績 委託製作👉
+- 🌻 [Wedding Invitation](https://butterfly-l.github.io/wedding/wang-wang)
+
+My Personal Projects 自分プロジェクト 個人作品👉
+- 🧘🏻‍♀️[Find your best yoga mat! 理想的なヨガマットを見つけよう！（中国語のみ）](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 
+- 🕊[Meditation 瞑想（中国語のみ）](https://butterfly-l.github.io/meditation/meditation.html) 
 
 
 <!--
