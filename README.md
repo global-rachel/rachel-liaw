@@ -1,14 +1,15 @@
 ## Hi I am Rachel! レイチェルです。　我是 Rachel 👋 😊
 💁‍♀️English 日本語 中文
 
-⚒  HTML & CSS & Javascript        ⚙️  Bootstrap & Jquery & SCSS & Vue.      
+⚒  HTML & CSS & Javascript        ⚙️  Bootstrap & Jquery & SCSS & Vue.     
+🦖 Git for version control        🐳  Gulp for flow automation
 🎨 Photoshop & illustrator & Adobe XD      💻 Project Management & Digital Marketing
 
 ---
 ## Ongoing Projects...
 - 2021/9
 
-🏃‍♀️ [30-day Code Challenge]()
+🏃‍♀️ [30-day Codeing Challenge](https://butterfly-l.github.io/2021-Coding-Challenge/)
 
 ## Works 制作実績 委託製作👉
 - 2021/5 
