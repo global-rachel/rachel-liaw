@@ -5,12 +5,15 @@
 🎨 Photoshop & illustrator & Adobe XD      💻 Project Management & Digital Marketing
 
 ---
+Ongoing Projects...
+- 🏃‍♀️ [2021/9 30-day Code Challenge]()
+
 Works 制作実績 委託製作👉
-- 🌻 [Wedding Invitation 結婚式の参加調査（Mandarin 中国語）](https://butterfly-l.github.io/wedding/wang-wang)
+- 🌻 [2021/5 Wedding Invitation 結婚式の参加調査（Mandarin 中国語）](https://butterfly-l.github.io/wedding/wang-wang)
 
 My Personal Projects 自分プロジェクト 個人作品👉
-- 🧘🏻‍♀️[Find your best yoga mat! 理想的なヨガマットを見つけよう！（Mandarin 中国語）](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 
-- 🕊[Meditation 瞑想（Mandarin 中国語）](https://butterfly-l.github.io/meditation/meditation.html) 
+- 🧘🏻‍♀️[2020/12 Find your best yoga mat! 理想的なヨガマットを見つけよう！（Mandarin 中国語）](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 
+- 🕊[2020/12 Meditation 瞑想（Mandarin 中国語）](https://butterfly-l.github.io/meditation/meditation.html) 
 
 ---
 Contact me 📬 liawyudye@gmail.com
