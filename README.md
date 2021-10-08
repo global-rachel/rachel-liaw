@@ -9,8 +9,9 @@
 ## Ongoing Projects...
 - 2021/9 -2021/10
 
-🏃‍♀️ [30-day Codeing Challenge](https://butterfly-l.github.io/2021-Coding-Challenge/)
-[Africa, Africa!](https://butterfly-l.github.io/africa-africa/#/)
+🏃‍♀️ [30-day Coding Challenge](https://butterfly-l.github.io/2021-Coding-Challenge/)
+
+🦏 [Africa, Africa!](https://butterfly-l.github.io/africa-africa/#/)
 
 ## Works 制作実績 委託製作👉
 - 2021/5 
@@ -19,8 +20,8 @@
 
 ## My Personal Projects 自分プロジェクト 個人作品👉
 - 2020/12 
-1. 🧘🏻‍♀️[Find your best yoga mat! 理想的なヨガマットを見つけよう！（Mandarin 中国語）](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 
-2. 🕊[Meditation 瞑想（Mandarin 中国語）](https://butterfly-l.github.io/meditation/meditation.html) 
+🧘🏻‍♀️[Find your best yoga mat! 理想的なヨガマットを見つけよう！（Mandarin 中国語）](https://butterfly-l.github.io/36deg-yoga/yogatest.html) 
+🕊[Meditation 瞑想（Mandarin 中国語）](https://butterfly-l.github.io/meditation/meditation.html) 
 
 ---
 Contact me 📬 liawyudye@gmail.com
