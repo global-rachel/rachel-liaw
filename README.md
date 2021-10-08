@@ -7,9 +7,10 @@
 
 ---
 ## Ongoing Projects...
-- 2021/9
+- 2021/9 -2021/10
 
 🏃‍♀️ [30-day Codeing Challenge](https://butterfly-l.github.io/2021-Coding-Challenge/)
+[Africa, Africa!](https://butterfly-l.github.io/africa-africa/#/)
 
 ## Works 制作実績 委託製作👉
 - 2021/5 
