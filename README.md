@@ -11,7 +11,7 @@
 
 🏃‍♀️ [30-day Coding Challenge](https://rachel-liaw.github.io/2021-Coding-Challenge/)
 
-🦏  [Africa, Africa!](https://rachel-liaw.io/africa-africa/#/)
+🦏  [Africa, Africa!](https://rachel-liaw.github.io/africa-africa/#/)
 
 ## Works 制作実績 委託製作👉
 - 2021/5 
