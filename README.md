@@ -1,9 +1,16 @@
 ## Hi I am Rachel! レイチェルです。　我是 Rachel 👋 😊
 💁‍♀️English 日本語 中文
 
-⚒  HTML & CSS & Javascript        ⚙️  Bootstrap & Jquery & SCSS & Vue.     
-🦖 Git for version control        🐳  Gulp for flow automation
-🎨 Photoshop & illustrator & Adobe XD      💻 Project Management & Digital Marketing
+🧶 HTML & Canvas
+👗 CSS & SCSS      
+👑 Vue & Javascript  & jQuery
+👞 D3.js      
+🐳 Gulp for flow automation
+💍 Node.js (basic) & mySQL (basic) 
+🦖 Git & Heroku(basic)
+
+💻 Project Management (Asana)
+🎡 Adobe XD
 
 ---
 ## Ongoing Projects...
@@ -20,7 +27,9 @@
 
 ## My Personal Projects 自分プロジェクト 個人作品👉
 - 2020/12 
+
 🧘🏻‍♀️[Find your best yoga mat! 理想的なヨガマットを見つけよう！（Mandarin 中国語）](https://rachel-liaw.github.io/36deg-yoga/yogatest.html) 
+
 
 🕊[Meditation 瞑想（Mandarin 中国語）](https://rachel-liaw.github.io/meditation/meditation.html) 
 
