@@ -14,13 +14,15 @@
 
 ---
 ## Ongoing Projects...
-🦏  [Africa, Africa!](https://rachel-liaw.github.io/africa_africa/#/)
+🦏  [Africa, Africa!(Vue Cli)](https://rachel-liaw.github.io/africa_africa/#/)
+
+
+## Works 制作実績 委託製作👉
 
 - 2021/9 -2021/10
 
-🏃‍♀️ [30-day Coding Challenge](https://rachel-liaw.github.io/2021-Coding-Challenge/)
+🏃‍♀️ [30-day Coding Challenge (JS & Gulp)](https://rachel-liaw.github.io/2021-Coding-Challenge/)
 
-## Works 制作実績 委託製作👉
 - 2021/5 
 
 🌻 [Wedding Invitation 結婚式の参加調査（Mandarin 中国語）](https://rachel-liaw.github.io/wedding/wang-wang)
