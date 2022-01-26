@@ -3,7 +3,7 @@
 
 🧶 HTML & Canvas
 👗 CSS & SCSS      
-👑 Vue & Javascript  & jQuery
+👑 Vue & React(Begineer) & Javascript  & jQuery
 👞 D3.js      
 🐳 Gulp for flow automation
 💍 Node.js (basic) & mySQL (basic) 
@@ -15,6 +15,7 @@
 ---
 ## Ongoing Projects...
 🦏  [Africa, Africa!(Vue Cli)](https://rachel-liaw.github.io/africa_africa/#/)
+🎨  [React + Canvas](https://rachel-liaw.github.io/react_canvas/)
 
 
 ## Works 制作実績 委託製作👉
