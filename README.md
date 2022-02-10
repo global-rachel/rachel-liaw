@@ -3,7 +3,7 @@
 
 🧶 HTML & Canvas
 👗 CSS & SCSS      
-👑 Vue & React(Begineer) & Javascript  & jQuery
+👑 Vue & React & Javascript  & jQuery
 👞 D3.js      
 🐳 Gulp for flow automation
 💍 Node.js (basic) & mySQL (basic) 
@@ -15,7 +15,13 @@
 ---
 ## Ongoing Projects...
 🦏  [Africa, Africa!(Vue Cli)](https://rachel-liaw.github.io/africa_africa/#/)
+-->Let's know more about Africa!
+
 🎨  [React + Canvas](https://rachel-liaw.github.io/react_canvas/)
+--> Make customized New Year picture!
+
+🍅 [React + Pomodora](https://rachel-liaw.github.io/react-pomodora/)
+--> Manage your everyday todo list with 25-min focus time!
 
 
 ## Works 制作実績 委託製作👉
