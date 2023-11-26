@@ -3,7 +3,7 @@
 #### A Front-End Developer who wants to build FUN / MEANINGFUL projects!
 Looking for a remote position. (I am in UTC+2 timezone!)
 
-Please Contact me 📬 liawyudye@gmail.com
+Please Contact me 📬 liawyudye🐭gmail.com
 
 ---
 💁‍♀️English 日本語 中文
